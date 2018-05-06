@@ -1,2 +1,4 @@
 bcm_version,bcm_validFrom,bcm_validTo,productUUID,tax,discount,countryCode
-1.0.0,,,e6d3143d-d93e-4b09-9e72-39d5fa4d7f30,,,IND
+1.0.0,2018-01-01T00:00:00,2018-12-31T00:00:00,e1d3143d-d93e-4b09-9e72-39d5fa4d7f30,5.00,3.00,IND
+1.0.0,2018-01-01T00:00:00,2018-12-31T00:00:00,28e9dbbc-511a-11e8-9c2d-fa7ae01bbebc,10.00,8.00,IND
+1.0.0,2018-01-01T00:00:00,2018-12-31T00:00:00,376db1d6-511a-11e8-9c2d-fa7ae01bbebc,12.00,10.00,IND
